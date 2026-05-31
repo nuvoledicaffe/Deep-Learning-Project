@@ -1,5 +1,5 @@
 # Deep-Learning-Project
-Lavinia Ranauro 
+Lavinia Ranauro's project
 ## Effect of Weight Decay
 Code that reports the decrease of the MSE of the quantizzation when the WD increases.
 
