@@ -4,7 +4,7 @@ Lavinia Ranauro's project
 Code that reports the decrease of the MSE of the quantizzation when the WD increases.
 
 
-## bound of Eq.13
+## Bound of Eq.13
 proved with CIFAR 10 and RESnet-18.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nuvoledicaffe/Deep-Learning-Project/blob/main/Bound.ipynb)
 
